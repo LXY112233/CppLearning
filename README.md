@@ -8,5 +8,5 @@
   4. 了解Makefile和CMake，并能简单写一点CMakeLists.txt，注意CMake要单独安装一下
      
 ## 更新日志
-  2024/9/6: upload the addressBookManagement
+  2024/9/6: upload the addressBookManagement  
   2024/9/11：upload the test_compilation_linking
