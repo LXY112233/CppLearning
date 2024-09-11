@@ -1,9 +1,9 @@
-g++ main.cpp --std=c++11 -o hello
-./hello
-编译hello.cpp文件
-采用c++11标准
-输出可执行文件，且名字为hello
-执行名为hello的可执行文件
+g++ main.cpp --std=c++11 -o hello  
+./hello  
+编译hello.cpp文件  
+采用c++11标准  
+输出可执行文件，且名字为hello  
+执行名为hello的可执行文件  
 
 
 g++ main.cpp factorial.cpp printhello.cpp -o main
