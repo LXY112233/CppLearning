@@ -1,3 +1,5 @@
+# 了解编译和链接
+
 g++ main.cpp --std=c++11 -o hello  
 ./hello  
 编译hello.cpp文件  
