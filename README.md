@@ -9,4 +9,5 @@
      
 ## 更新日志
   2024/09/06: upload the addressBookManagement  
-  2024/09/11: upload the test_compilation_linking
+  2024/09/11: upload the test_compilation_linking  
+  2024/09/12: upload the workerManagement
