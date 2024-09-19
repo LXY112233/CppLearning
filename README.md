@@ -6,7 +6,7 @@
   2. 安装VScode以及一些必要的插件
   3. 正式上手学C++
   4. 了解Makefile和CMake，并能简单写一点CMakeLists.txt，注意CMake要单独安装一下(windows下安装了VS后，会强制使用VS的编译器，所以还是linux系统下写C++好一点)
-  5. 
+  5. C++大致的学习过程：C基础阶段、面对对象阶段、泛型编程阶段
      
 ## 更新日志
   2024/09/06: upload the addressBookManagement  
