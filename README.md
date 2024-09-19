@@ -5,7 +5,7 @@
   1. 安装mingw，它是一个开发工具集，包含着gcc和g++，分别是c和c++的编译链接工具
   2. 安装VScode以及一些必要的插件
   3. 正式上手学C++
-  4. 了解Makefile和CMake，并能简单写一点CMakeLists.txt，注意CMake要单独安装一下
+  4. 了解Makefile和CMake，并能简单写一点CMakeLists.txt，注意CMake要单独安装一下(windows下安装了VS后，会强制使用VS的编译器，所以还是linux系统下写C++好一点)
   5. 
      
 ## 更新日志
