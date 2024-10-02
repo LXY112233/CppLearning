@@ -2,7 +2,7 @@
   some simple projects in learning C++
 
 ## 学习经历：
-  1. windows下安装WSL2，并安装Ubuntu20.04，在linux下安装好gcc和g++编译器，以及git、cmake、tree等工具
+  1. windows下安装WSL2，并安装Ubuntu20.04，安装好GCC编译器，以及git、cmake、tree等工具
   2. 安装VScode编辑器，安装WSL插件
   3. 正式上手学C++
   4. 了解Makefile和CMake，并能简单写一点CMakeLists.txt
